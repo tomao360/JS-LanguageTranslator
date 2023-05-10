@@ -89,6 +89,10 @@ li,
   width: 38%;
 }
 
+.controls .icons :active {
+  background-color: transparent;
+}
+
 .controls .icons i {
   width: 50px;
   color: #9f9f9f;
