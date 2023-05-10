@@ -125,7 +125,7 @@ li,
 
 /*================ BREAKPOINTS ================*/
 /* for small devices */
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 321px) and (max-width: 768px) {
   .container {
     width: 90%;
     padding: 20px;
