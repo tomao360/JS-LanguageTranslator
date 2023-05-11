@@ -78,7 +78,6 @@ li,
 .controls .row.from .icons {
   padding-right: 15px;
   border-right: var(--border);
-  user-select: none;
 }
 
 .controls .row.to .icons {
